@@ -337,6 +337,7 @@ header
   -moz-transition: all 0.3s ease 0s;
   -o-transition: all 0.3s ease 0s;
   transition: all 0.3s ease 0s;
+  width: 50px;
 }
 
 .background-header .main-nav .logo {
@@ -503,7 +504,9 @@ header
   z-index: 99;
   right: 40px;
   display: none;
+  
 }
+
 
 .background-header .main-nav .menu-trigger {
   top: 23px;
@@ -1098,7 +1101,7 @@ About
 }
 
 .about-us .fact-item .count-digit {
-  font-size: 48px;
+  font-size: 20px;
   font-weight: 700;
   color: #2a2a2a;
   margin-top: 5px;
